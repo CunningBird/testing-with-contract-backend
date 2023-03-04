@@ -1,0 +1,8 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: server-openapi
+  main:
+    banner-mode: off
